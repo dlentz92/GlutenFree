@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "ejs": "^2.7.1",
     "express": "^4.17.1",
-    "express-handlebars": "^3.1.0",
-    "handlebars": "^4.4.0",
     "node": "^12.11.0",
+    "popper.js": "^1.16.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
-    "uninstall": "0.0.0"
+    "uninstall": "0.0.0",
+    "yarn": "^1.19.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
