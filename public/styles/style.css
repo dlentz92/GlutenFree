@@ -1,0 +1,21 @@
+body{
+    
+}
+.navBarColor{
+    background-color: #212344;
+}
+
+.navbar-nav{
+    text-align: right;
+    color: white;
+}
+
+#GFImage{
+    margin: -10%;
+    padding: -100%;
+    
+}
+
+#btmPic{
+    text-align: center;
+}
