@@ -1,0 +1,1 @@
+var navBar = document.getElementsByClassName("navbar-toggler")

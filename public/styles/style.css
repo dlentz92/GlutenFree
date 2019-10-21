@@ -5,10 +5,18 @@ body{
     background-color: #212344;
 }
 
-.navbar-nav{
-    text-align: right;
+a:link, a:visited {
+    background-color: #212344;
     color: white;
-}
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #53819b;
+  }
 
 #GFImage{
     margin: -10%;
